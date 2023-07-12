@@ -1,0 +1,8 @@
+D:\M\Day-3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.AssemblyReference.cache
+D:\M\Day-3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.SuggestedBindingRedirects.cache
+D:\M\Day-3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.csproj.CoreCompileInputs.cache
+D:\M\Day-3\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.exe.config
+D:\M\Day-3\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.exe
+D:\M\Day-3\ConAppLoops\ConAppLoops\bin\Debug\ConAppLoops.pdb
+D:\M\Day-3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.exe
+D:\M\Day-3\ConAppLoops\ConAppLoops\obj\Debug\ConAppLoops.pdb
